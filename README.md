@@ -1,6 +1,7 @@
 # Pemrograman Aplikasi Bergerak 
 
 Nama : Mohamad Ariel Saputra D Loi
+
 NIM : 2409116087
 
 # Struktur
